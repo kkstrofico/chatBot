@@ -1,0 +1,23 @@
+Edier - NLP
+
+    Configurar spaCy o NLTK.
+    Preprocesar textos.
+    Entrenar modelo de intenciones.
+    Implementar reconocimiento de intenciones.
+    Pruebas NLP.
+
+Camilo - Backend
+
+    Configurar el backend con Flask o Django.
+    Desarrollar la lógica del chatbot.
+    Integrar APIs.
+    Implementar manejo de errores.
+    Pruebas backend.
+
+Junior - UI y Base de Datos
+
+    Desarrollar la interfaz gráfica.
+    Configurar base de datos.
+    Crear modelos de base de datos.
+    Implementar consultas.
+    Pruebas de UI y base de datos.
