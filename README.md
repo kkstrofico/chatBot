@@ -10,6 +10,8 @@ Este chatbot está diseñado para ayudar a los usuarios a resolver preguntas sob
 ## Instalación
 1. Clona el repositorio:
 git clone https://github.com/kkstrofico/chatBot.git
-2. Descarga los requirements 
-pip install -r requirements
+2. Descarga los requirements: pip install -r requirements
+
+## Uso
+Abre el index.html en el navegador(Pendiente)
 
