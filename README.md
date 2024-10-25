@@ -9,8 +9,7 @@ Este chatbot está diseñado para ayudar a los usuarios a resolver preguntas sob
 - SQLite
 ## Instalación
 1. Clona el repositorio:
-git clone https://github.com/usuario/chatbot-colaborativo.git
-
-2.Descarga los requirements 
+git clone https://github.com/kkstrofico/chatBot.git
+2. Descarga los requirements 
 pip install -r requirements
 
