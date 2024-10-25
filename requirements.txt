@@ -1,2 +1,3 @@
-spacy
+spacy 
 es_core_web_sm
+pandas
