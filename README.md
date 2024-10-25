@@ -11,8 +11,8 @@ Este chatbot está diseñado para ayudar a los usuarios a resolver preguntas sob
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/usua rio/chatbot-colaborativo.git
+```bash
 ## Uso
 Para iniciar el chatbot, ejecuta:
-```bash
 python run.py(Aun pendiente)
 
